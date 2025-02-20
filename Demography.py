@@ -1,4 +1,4 @@
-#import streamlit as st
+import streamlit as st
 from Discovery import run as run_discovery
 from Test_Result import run as run_test_result
 import pandas as pd
